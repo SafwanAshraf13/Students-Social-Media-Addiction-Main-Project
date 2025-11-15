@@ -13,17 +13,17 @@ Jupyter Notebook.
 
 > The goal of this project is to analyze how social media behavior impacts students by examining :
 
-1,Addiction Score
+1.Addiction Score
 
-2,Sleep Hours
+2.Sleep Hours
 
-3,Social Media Usage
+3.Social Media Usage
 
-4,Country
+4.Country
 
-5,Derived features
+5.Derived features
 
-6,Behavioral patterns and risks.
+6.Behavioral patterns and risks.
 
 This project performs a complete Exploratory Data Analysis (EDA) to uncover hidden trends, correlations, and insights.
 
